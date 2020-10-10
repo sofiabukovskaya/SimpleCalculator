@@ -1,2 +1,2 @@
-# SimpleCalculator
-Simple calculator using Java and JavaFX, unfinished
+# ➕ ✏️ ➗ SimpleCalculator
+Simple calculator using Java and JavaFX, finished
